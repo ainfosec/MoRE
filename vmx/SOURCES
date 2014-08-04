@@ -1,0 +1,4 @@
+TARGETNAME=load_exec_hypervisor
+TARGETPATH=OBJ
+TARGETTYPE=DRIVER
+SOURCES=hypervisor_loader.c hypervisor_msr.c hypervisor.c log.c ept.c procmon.c ..\pe.c ..\stack.c ..\paging.c

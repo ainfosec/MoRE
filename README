@@ -1,0 +1,3 @@
+The VMX module must be run on a Windows 7, 32-bit system with nopae
+and numproc=1 as well as truncated memory to 2GiB. It is built with
+WinDDK free environment (32-bit).
